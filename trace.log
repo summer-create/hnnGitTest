@@ -1,0 +1,17 @@
+== Info: Host github.com:443 was resolved.
+== Info: IPv6: (none)
+== Info: IPv4: 20.205.243.166
+== Info:   Trying 20.205.243.166:443...
+== Info: schannel: disabled automatic use of client certificate
+== Info: Connected to github.com (20.205.243.166) port 443
+== Info: using HTTP/1.x
+=> Send header, 74 bytes (0x4a)
+0000: GET / HTTP/1.1
+0010: Host: github.com
+0022: User-Agent: curl/8.12.1
+003b: Accept: */*
+0048: 
+== Info: Request completely sent off
+== Info: Recv failure: Connection was reset
+== Info: schannel: recv returned CURLE_RECV_ERROR
+== Info: closing connection #0
